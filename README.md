@@ -75,7 +75,7 @@ touch docker-compose.yml
 
 vi docker-compose.yml
 
-insert : 
+
 version: '3.8'
 services:
   mongo:
